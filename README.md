@@ -27,4 +27,5 @@ este código genera números pseudoaleatorios utilizando el método de congruenc
 ![image](https://github.com/AxelAceves/Congruencia-Lineal/assets/149019864/28fcb8b3-9bab-4490-9277-e677d52557bb)
 euipo echo con :
 quiroga hoy ,max ,luis
-link del manual : https://www.file.io/OUXP/download/BaYT8bafAO7v 
+## link del manual : 
+https://www.file.io/OUXP/download/BaYT8bafAO7v 
