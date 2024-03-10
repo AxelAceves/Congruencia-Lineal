@@ -23,3 +23,8 @@ Agrega una fila a una tabla HTML (tablaResultados) con tres celdas: la iteració
 ## En resumen del codigo completo :
 
 este código genera números pseudoaleatorios utilizando el método de congruencia lineal y los muestra en una tabla HTML junto con su valor de iteración. También detecta repeticiones y resalta los números repetidos en la tabla. Además, muestra un gráfico de los valores generados.
+
+![image](https://github.com/AxelAceves/Congruencia-Lineal/assets/149019864/28fcb8b3-9bab-4490-9277-e677d52557bb)
+euipo echo con :
+quiroga hoy ,max ,luis
+link del manual : https://www.file.io/OUXP/download/BaYT8bafAO7v 
